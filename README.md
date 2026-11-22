@@ -31,3 +31,8 @@ Demo records and changes are stored in the current browser using localStorage. T
 ## Deployment and verification
 
 GitHub Actions runs `npm install` and `npm run build` on pushes to `main`, uploads the `dist/` output as the `github-pages` artifact, and deploys it to GitHub Pages.
+
+
+## Experiment copy
+
+This repository is an independent experiment copy of the FiveStar ERP classroom prototype. Changes here do not modify the original `fivestar` repository.
